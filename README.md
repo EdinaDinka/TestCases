@@ -1,2 +1,2 @@
 # TestCases
-Test cases and test scenarios for the demo app.
+Test cases and bugs reported for the demo app.
